@@ -6,18 +6,8 @@
   <img alt="GIF" src="https://github.com/cmarih/cmarih/blob/master/img/programmer.gif?raw=true" />
 </h2>
 
-<br>
-<br>
-Atualmente realizo trabalhos como design, além de trabalhar com suporte remoto. Gosto de jogar, assistir séries, ler e aprender.
-<br>
-<br>
-Com o objetivo de entrar no mundo da programação web, hoje estou trilhando uma nova etapa, dedicando-me ao aprendizado e compartilhamento de conhecimento junto a comunidade. 
-<br>
-<br>
-
-- :dart: Buscando desafios em desenvolvimento web! Só chamar galera! :muscle:
 - :mortar_board: Bacharel em Sistemas de Informação.
-- :books: Estudando HTML | CSS | JAVASCRIPT | NODE.JS | SQL | UX/UI | DESIGN DE INTERFACE
+- :books: Estudando HTML | CSS | JAVASCRIPT | NODE.JS | SQL | JAVA | AZURE |  COBOL | MAINFRAME
 - :question: Dúvidas?? Vou ficar muito feliz em colaborar!
 - :eyes: Aprendendo a usar o Github! :grin:
 
