@@ -4,7 +4,7 @@
 <br>
   <img alt="GIF" src="https://github.com/cmarih/cmarih/blob/master/img/programmer.gif?raw=true" />
 </div>
-
+<br><br>
 - :mortar_board: Bacharel em Sistemas de Informação.
 - :books: Estudando HTML | CSS | JAVASCRIPT | SQL  - A pouco tempo me tornei uma pequena coboleira, iniciando os estudos em COBOL | MAINFRAME
 - :family_woman_boy: Mãe em tempo integral (Maior desafio que já recebi e tenho me esforçado ao máximo)
