@@ -20,13 +20,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmarih&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div> 
-
-  ![Snake animation](https://github.com/cmarih/cmarih/blob/master/img/github-contribution-grid-snake.svg)
-
-</div>
-
-
 <div align="center">
 
   <a href="https://www.linkedin.com/in/marilene-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
