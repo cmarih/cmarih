@@ -22,7 +22,7 @@
 
 <div> 
 
-  ![Snake animation](https://github.com/cmarih/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/cmarih/cmarih/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
