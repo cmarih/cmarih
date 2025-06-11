@@ -1,9 +1,9 @@
 name: Gerar Dados
 
 on:
-  schedule:  # Executa a cada 12 horas
+  schedule:       # Executa a cada 12 horas
     - cron: "0 */12 * * *"
-  workflow_dispatch:
+  workflow_dispatch:  # Permite execução manual
 
 jobs:
   build:
@@ -11,7 +11,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Animação de cobra
       - uses: Platane/snk@master
         id: snake-gif
         with:
