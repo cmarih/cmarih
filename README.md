@@ -55,4 +55,5 @@
 
 </div>
 
-![Snake animation](https://github.com/cmarih/cmarih/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/cmarih/cmarih/output/github-contribution-grid-snake.svg)
+
