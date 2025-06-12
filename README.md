@@ -55,5 +55,9 @@
 
 </div>
 
-![snake gif](https://raw.githubusercontent.com/cmarih/cmarih/output/github-contribution-grid-snake.svg)
+## 🐍 Snake com meus commits
+
+![Snake animation](https://github.com/cmarih/snake/blob/output/github-contribution-grid-snake.svg)
+
+
 

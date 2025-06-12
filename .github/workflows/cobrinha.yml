@@ -3,18 +3,19 @@ name: Gerar Dados
 on:
   push:
     branches:
-      - master  # ou 'master', dependendo do seu branch padrão
-  schedule:       # Executa a cada 12 horas
+      - master # ou 'main'
+  schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch:  # Permite execução manual
+  workflow_dispatch:
 
 jobs:
   build:
-    name: Trabalhos para atualizar dados
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@master
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: cmarih
